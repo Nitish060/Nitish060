@@ -1,5 +1,5 @@
 ![logo](https://github.com/Nitish060/Nitish060/blob/main/Cover.png)
-<h1 align="center">Hi 👋, I'm Nitish Kumara Mishra</h1>
+<h1 align="center">Hi 👋, I'm Nitish Kumar Mishra</h1>
 <h3 align="center">A growing Software Engineer from India</h3>
 
 <img align="right" alt="engineer" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
