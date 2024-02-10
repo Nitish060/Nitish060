@@ -1,3 +1,4 @@
+![logo](https://github.com/Nitish060/Nitish060/blob/main/Cover.png)
 <h1 align="center">Hi 👋, I'm Nitish Kumara Mishra</h1>
 <h3 align="center">A growing Software Engineer from India</h3>
 
