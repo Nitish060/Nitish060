@@ -1,4 +1,4 @@
-![logo](https://github.com/Nitish060/Nitish060/blob/main/Cover.png)
+![logo](https://github.com/Nitish060/Nitish060/blob/main/My_Cover.png)
 <h1 align="center">Hi 👋, I'm Nitish Kumar Mishra</h1>
 <h3 align="center">A growing Software Engineer from India</h3>
 
