@@ -4,7 +4,7 @@
 
 <img align="right" alt="engineer" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
-- 📫 How to reach me **nitishmishra2100@gmail.com**
+- 📫 How to reach me **nitishmishra0006@gmail.com**
 
 - ⚡ Fun fact **I am humourus 😊**
 
